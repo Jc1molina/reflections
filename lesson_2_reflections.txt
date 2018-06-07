@@ -6,3 +6,6 @@ I need to do this to track changes
 Staging is where I add the files before to put in the repository
 What value do you think it offers?
 It let me do changes before I put in to the repository
+
+3rd How can you use the staging area to make sure you have one commit per logical change?
+because I can compare with my working area, stage ad repository
