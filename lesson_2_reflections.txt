@@ -18,3 +18,5 @@ because I can compare with my working area, stage ad repository
 	Putting all the commits on the same branch
 	I dont know why we represent on the diagram the way that we do
 
+6th What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Git can not auto merge, it has to be done manually 
