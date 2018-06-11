@@ -9,3 +9,12 @@ It let me do changes before I put in to the repository
 
 3rd How can you use the staging area to make sure you have one commit per logical change?
 because I can compare with my working area, stage ad repository
+
+4th How do the diagrams help you visualize the branch structure?
+	Because i can see graphics 
+
+5th What is the result of merging two branches together?
+	 Why do we represent it in the diagram the way we do?
+	Putting all the commits on the same branch
+	I dont know why we represent on the diagram the way that we do
+
